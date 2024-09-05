@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=320, initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css"/>
+    <script defer src="data.js"></script>
+    <script defer src="script.js"></script>
+  </head>
+  <body>
+    <div id="idpannel" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: #fff; display: flex; align-items: center; justify-content: center; z-index: 1; flex-direction: column;">
+      <label for="identify">identifies toi : <input id="nameInput" name="identify" type="text" placeholder="ton nom" oninput="if(this.value !== '') {idbtn.classList.remove('hidden')} else {idbtn.classList.add('hidden')}"></label>
+      <br>
+      <button id="idbtn" style="transition: opacity .2s;" class="hidden" onclick="yourName = nameInput.value; fadeOut(idpannel);">Entrer dans le site</button>
+      
+    </div>
+    
+    
+    
+    
+    <div id="navbar" style="flex-direction: row; display: flex; align-items: center; justify-content: space-between; width: 100%; position: fixed; top: 0; left: 0; background-color: #222;">
+      <h1 style="color: #fff; margin-right: 20px; font-size: 15px;">PROJECT KILL</h1>
+      <div>
+        <input type="button" value="histoire" data-win="story">
+        <input type="button" value="charadesign concept" data-win="charad">
+        <input type="button" value="gameplay programming" data-win="gameplay">
+        <input type="button" value="developpement" data-win="dev">
+      </div>
+    </div>
+    
+    <br><br>
+
+    <div id="container" style="padding-left: 20px; padding-right: 20px; width: calc(100% - 40px); min-height: 10px; font-size: 25px">
+  
+    </div>
+    
+    
+  </body>
+</html>
