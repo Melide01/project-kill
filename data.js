@@ -6,7 +6,7 @@ Une jeune femme se lève de bon matin sans même prendre son petit déjeuner. El
 <br>
 Anaë est une conductrice joviale, elle aime particulièrement accompagnée des familles durant ses courses. Sauf que la majorité du temps, elle conduit pour des personnes avec qui elle n'échange aucun mot à part "Bonjour" "Ça fera {insérer le prix de la course}€" et "Aurevoir". Comme tout les matins elle ne mange ni ne bois pas, elle s'achète à manger à la fin d'une course. Ça lui fait un budget de 10€ le matin et 30€ à 40€ l'après-midi.
 <br><br>
-Elle prend alors ses premiers clients, des personnes qui vont à leur travaille. Elle retrouve même certains habitué. C'est souvent des hommes/femmes d'affaires ou des personnes qui travaille dans des bureaux. Certains commencent leurs journée dans la voiture même le téléphone à la main et l'ordinateur sur les cuisses. Anaë s'est habitué à cette vie et ça la comble de bonheur.
+Elle prend alors ses premiers clients, des personnes qui vont à leur travaille. Elle retrouve même certains habitué. C'est souvent des hommes/femmes d'affaires ou des personnes qui travaille dans des bureaux. Certains commencent leurs journée dans la voiture même, le téléphone à la main et l'ordinateur sur les cuisses. Anaë s'est habitué à cette vie et ça la comble de bonheur.
 <br><br>
 Soudain, un homme étrange entre dans la voiture. Un homme vêtue d'un tshirt gris foncé et d'un pentalon rouge sang. Sa silhouette est semblable à un carré parfait ! Il a les cheveux crasseux mais ne semble pas particulièrement sale. Alors qu'Anaë le conduit jusqu'à déstination, elle le dit :
 <br>
@@ -77,7 +77,12 @@ pas encore de design fixe ni de direction artistique fixe.
 
 <br><br>
 note: la jeune femme doit paraitre joviale et responsable. l'homme doit paraitre enfantin mais imposant.
-<img src="IMG_6230.jpeg" width="100%">
+<p>08/09/24<img src="anae.jpeg" width="100%"></p>
+<p>08/09/24<img src="homme.jpeg" width="100%"></p>
+<p>08/09/24<img src="mood.jpeg" width="100%"></p>
+<p>08/09/24<img src="mood blood.jpeg" width="100%"></p>
+
+<p>05/09/24<img src="IMG_6230.jpeg" width="100%"></p>
 `
 
 var gameplay = `
