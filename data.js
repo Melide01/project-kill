@@ -77,12 +77,12 @@ pas encore de design fixe ni de direction artistique fixe.
 
 <br><br>
 note: la jeune femme doit paraitre joviale et responsable. l'homme doit paraitre enfantin mais imposant.
-<p>08/09/24  //  charadesign anaë<img src="anae.jpeg" width="100%"></p>
-<p>08/09/24  //  charadesign l'homme<img src="homme.jpeg" width="100%"></p>
-<p>08/09/24  //  conceptart mood<img src="mood.jpeg" width="100%"></p>
-<p>08/09/24  //  conceptart mood blood<img src="mood blood.jpeg" width="100%"></p>
+<p>08/09/24  /  charadesign anaë<img src="anae.jpeg" width="100%"></p>
+<p>08/09/24  /  charadesign l'homme<img src="homme.jpeg" width="100%"></p>
+<p>08/09/24  /  conceptart mood<img src="mood.jpeg" width="100%"></p>
+<p>08/09/24  /  conceptart mood blood<img src="mood blood.jpeg" width="100%"></p>
 
-<p>05/09/24  //  charadesign premier essai<img src="IMG_6230.jpeg" width="100%"></p>
+<p>05/09/24  /  charadesign premier essai<img src="IMG_6230.jpeg" width="100%"></p>
 `
 
 var gameplay = `
